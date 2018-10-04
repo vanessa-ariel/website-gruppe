@@ -1,0 +1,25 @@
+
+// ------------ NAV -------------
+.nav{
+    display: flex;
+    justify-content: center;
+    &__menu{
+        display: flex;
+        flex-direction: row;
+        li{
+            margin: 20px;
+            color:white;
+            text-transform: uppercase;
+        }
+    }
+}
+
+// HEADER
+
+
+
+
+
+
+
+@import '_base/_base';
